@@ -27,4 +27,4 @@ STM32 Lib OLED SSD1306 I2C SPI ( 64x32 64x48 72x40 96x16 128x32 128x64 ) SH1106 
 
 LCDAssistant - конвертор изображения в массив.
 
-По всем вопросам пишите: golinskiy.konstantin@gmail.com
+По всем вопросам пишите: kostiantyn.holinskyi@gmail.com
